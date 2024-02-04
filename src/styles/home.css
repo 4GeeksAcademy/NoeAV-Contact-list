@@ -1,0 +1,36 @@
+body {
+    margin-top: 100px;
+    background: #6868AC
+}
+.fa-solid.fa-trash-can {
+    font-size: x-large;
+}
+.fa-solid.fa-user-pen {
+    font-size: x-large;
+}
+.fa-trash-can {
+    float: right;
+    align-items: center;
+    margin-left: 5px;
+    padding: 5px;
+    size: 20px;
+}
+.fa-user-pen {
+    float: right;
+    align-items: center;
+    margin-left: 5px;
+    padding: 5px;
+    size: 20px;
+}
+h5 {
+    text-align: start;
+}
+
+.extrainfo {
+    text-align: start;
+    margin: 5px 5px 5px -18px;
+}
+
+button {
+    background-color: aqua;
+}
