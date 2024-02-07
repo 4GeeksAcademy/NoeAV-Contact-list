@@ -2,6 +2,9 @@ body {
     margin-top: 100px;
     background: #6868AC
 }
+#contactMainLook {
+    height: 10%;
+}
 .fa-solid.fa-trash-can {
     font-size: x-large;
 }
@@ -33,4 +36,9 @@ h5 {
 
 button {
     background-color: aqua;
+}
+img {
+    height: 60px;
+    width: 65px;
+
 }
