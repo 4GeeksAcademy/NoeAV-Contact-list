@@ -1,1 +1,8 @@
-button {}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+
+#NavbarAddbutton {
+    background-color: rgb(42, 30, 44);
+    color: lavenderblush;
+    font-family: 'Pacifico', Arial, sans-serif;
+    border-color: rgb(35, 6, 63);
+}

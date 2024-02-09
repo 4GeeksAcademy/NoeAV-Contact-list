@@ -6,8 +6,8 @@ export const Navbar = () => {
 	return (
 		<nav className="d-grid gap-2 d-md-flex justify-content-md-end">
 			<div className="ml-auto">
-				<Link to="/demo">
-					<button className="btn btn-outline-success">Add new contact</button>
+				<Link to="/add">
+					<button className="btn btn-success" id="NavbarAddbutton">Add new contact</button>
 				</Link>
 			</div>
 		</nav>

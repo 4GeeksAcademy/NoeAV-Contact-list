@@ -2,14 +2,20 @@ body {
     margin-top: 100px;
     background: #6868AC
 }
-#contactMainLook {
+#contactsMainLook {
     height: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+    border-radius: 0.75rem;;
 }
 .fa-solid.fa-trash-can {
     font-size: x-large;
+    margin-top: 3%;
 }
 .fa-solid.fa-user-pen {
     font-size: x-large;
+    margin-right: 6%;
+    margin-top: 3%;
 }
 .fa-trash-can {
     float: right;
@@ -25,20 +31,25 @@ body {
     padding: 5px;
     size: 20px;
 }
-h5 {
+h5{
     text-align: start;
 }
-
 .extrainfo {
     text-align: start;
     margin: 5px 5px 5px -18px;
 }
 
 button {
-    background-color: aqua;
+    background-color: red;
 }
 img {
     height: 60px;
     width: 65px;
 
+}
+.TitleContacts {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#smallicons {
+    margin-right: 8px;
 }

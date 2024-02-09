@@ -1,0 +1,9 @@
+.title {
+ display: flex;
+ justify-content: space-evenly;
+ font-style: italic;
+ font-size: x-large;
+}
+#inputForm {
+    border-radius: 10px;
+}
